@@ -16,5 +16,5 @@ let anotherPassportWithAddress = {
 
 anotherPassportWithAddress.address.city = 'Bobryisk'
 
-console.log(passportWithAddress.address.city === 'LA')
-console.log(anotherPassportWithAddress.address.city === 'Bobryisk')
+console.log(passportWithAddress.address.city)
+console.log(anotherPassportWithAddress.address.city)
